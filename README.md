@@ -1,4 +1,22 @@
-paste-app-qiwx.vercel.app
+# Paste App
+
+A simple React + Redux paste management application.
+
+## 🚀 Live Demo
+👉 https://paste-app-qiwx.vercel.app
+
+## 🛠️ Tech Stack
+- React
+- Redux Toolkit
+- Tailwind CSS
+- React Router
+
+## ✨ Features
+- Create Paste
+- Update Paste
+- View Paste
+- Delete Paste
+- Copy Paste
 # React + Vite
 
 This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
